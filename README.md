@@ -8,6 +8,10 @@ first clone the repository:
 move to directory:
      cd DGEFP_BE
 
-note : install django with  pip install django or py install django 
+note : 
+  run it in turminal 'pip install -r requirements.txt'
+ if you are using venv :
+             1: Activate
+             2: pip install -r requirements.txt
 
 run server : python manage.py runserver or py manage.py runserver
